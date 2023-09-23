@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Babar Azam",
+    "info": {
+      "country": "Pakistan",
+      "type": "Right",
+      "position": "bat",
+      "img": "",
+      "jersey": 56
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 91,
+      "bowl": 32,
+      "field": 79
+    }
+  },
+  {
+    "name": "Shaheen Afridi",
+    "info": {
+      "country": "Pakistan",
+      "type": "Left",
+      "position": "bowl",
+      "img": "",
+      "jersey": 81
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 44,
+      "bowl": 91,
+      "field": 79
+    }
+  },
+  {
+    "name": "Ben Stokes",
+    "info": {
+      "country": "England",
+      "type": "Left",
+      "position": "all-rounder",
+      "img": "",
+      "jersey": 55
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 89,
+      "bowl": 87,
+      "field": 85
+    }
+  },
+  {
+    "name": "Mitchell Starc",
+    "info": {
+      "country": "Australia",
+      "type": "Left",
+      "position": "bowl",
+      "img": "",
+      "jersey": 19
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 36,
+      "bowl": 91,
+      "field": 80
+    }
+  },
+  {
+    "name": "Virat Kohli",
+    "info": {
+      "country": "India",
+      "type": "Right",
+      "position": "bat",
+      "img": "",
+      "jersey": 18
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 91,
+      "bowl": 36,
+      "field": 86
+    }
+  },
+  {
+    "name": "Trent Boult",
+    "info": {
+      "country": "New Zealand",
+      "type": "Left",
+      "position": "bowl",
+      "img": "",
+      "jersey": 29
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 39,
+      "bowl": 91,
+      "field": 86
+    }
+  },
+  {
+    "name": "Rashid Khan",
+    "info": {
+      "country": "Afghanistan",
+      "type": "Right",
+      "position": "bowl",
+      "img": "",
+      "jersey": 17
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 56,
+      "bowl": 91,
+      "field": 82
+    }
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "info": {
+      "country": "Bangladesh",
+      "type": "Left",
+      "position": "all-rounder",
+      "img": "",
+      "jersey": 75
+    },
+    "rating": {
+      "ovr": 91,
+      "bat": 89,
+      "bowl": 89,
+      "field": 81
+    }
+  },
+    {
+        "name": "Jos Buttler",
+        "info": {
+            "country": "England",
+            "type": "Right",
+            "position": "wicketkeeper-bat",
+            "img": "",
+            "jersey": 10
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 90,
+            "bowl": 32,
+            "field": 80
+        }
+    },
+    {
+        "name": "Pat Cummins",
+        "info": {
+            "country": "Australia",
+            "type": "Right",
+            "position": "all-rounder",
+            "img": "",
+            "jersey": 30
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 50,
+            "bowl": 91,
+            "field": 81
+        }
+    },
+    {
+        "name": "David Warner",
+        "info": {
+            "country": "Australia",
+            "type": "Left",
+            "position": "bat",
+            "img": "",
+            "jersey": 31
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 90,
+            "bowl": 34,
+            "field": 80
+        }
+    },
+    {
+        "name": "Steve Smith",
+        "info": {
+            "country": "Australia",
+            "type": "Right",
+            "position": "bat",
+            "img": "",
+            "jersey": 49
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 90,
+            "bowl": 38,
+            "field": 82
+        }
+    },
+    {
+        "name": "Rohit Sharma",
+        "info": {
+            "country": "India",
+            "type": "Right",
+            "position": "bat",
+            "img": "",
+            "jersey": 45
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 89,
+            "bowl": 38,
+            "field": 79
+        }
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "info": {
+            "country": "India",
+            "type": "Right",
+            "position": "bowl",
+            "img": "",
+            "jersey": 93
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 42,
+            "bowl": 91,
+            "field": 79
+        }
+    },
+    {
+        "name": "Kane Williamson",
+        "info": {
+            "country": "New Zealand",
+            "type": "Right",
+            "position": "bat",
+            "img": "",
+            "jersey": 22
+        },
+        "rating": {
+            "ovr": 90,
+            "bat": 90,
+            "bowl": 36,
+            "field": 81
+        }
+    },
+   
+    {
+        "name": "Mohammed Rizwan",
+        "info": {
+            "country": "Pakistan",
+            "type": "Right",
+            "position": "wicketkeeper-bat",
+            "img": "",
+            "jersey": 20
+        },
+        "rating": {
+            "ovr": 89,
+            "bat": 89,
+            "bowl": 32,
+            "field": 80
+        }
+    },
+    {
+        "name": "Kagiso Rabada",
+        "info": {
+            "country": "South Africa",
+            "type": "Right",
+            "position": "bowl",
+            "img": "",
+            "jersey": 25
+        },
+        "rating": {
+            "ovr": 89,
+            "bat": 34,
+            "bowl": 90,
+            "field": 79
+        }
+    },
+    {
+        "name": "Joe Root",
+        "info": {
+            "country": "England",
+            "type": "Right",
+            "position": "bat",
+            "img": "",
+            "jersey": 66
+        },
+        "rating": {
+            "ovr": 89,
+            "bat": 89,
+            "bowl": 40,
+            "field": 82
+        }
+    },
+    {
+        "name": "Wanindu Hasaranga",
+        "info": {
+            "country": "Sri Lanka",
+            "type": "Right",
+            "position": "all-rounder",
+            "img": "",
+            "jersey": 99
+        },
+        "rating": {
+            "ovr": 89,
+            "bat": 85,
+            "bowl": 89,
+            "field": 80
+        }
+    },
+      {
+        "name": "Josh Hazlewood",
+        "info": {
+            "country": "Australia",
+            "type": "Right",
+            "position": "bowl",
+            "img": "",
+            "jersey": 38
+        },
+        "rating": {
+            "ovr": 88,
+            "bat": 30,
+            "bowl": 89,
+            "field": 81
+        }
+    },
+    {
+        "name": "Shubman Gill",
+        "info": {
+            "country": "India",
+            "type": "Right",
+            "position": "bat",
+            "img": "",
+            "jersey": 77
+        },
+        "rating": {
+            "ovr": 88,
+            "bat": 88,
+            "bowl": 32,
+            "field": 83
+        }
+    }
+
+
+
+
+]
